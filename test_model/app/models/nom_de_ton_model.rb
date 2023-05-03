@@ -1,0 +1,2 @@
+class NomDeTonModel < ApplicationRecord
+end
